@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Flutter and Web App development**
+- 🔭 I’m currently working on **Mobile App (Flutter) and Web App development**
 
 - 👯 [Instagram](https://www.instagram.com/_6anesh_/)
 
